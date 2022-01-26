@@ -13,12 +13,18 @@
     "@types/react-redux": "^7.1.5",
     "graphql": "^14.5.8",
     "isomorphic-fetch": "^2.2.1",
+    "plotly.js-dist": "^2.8.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "react-select": "^5.2.2",
     "react-toastify": "^5.4.0",
     "react-use": "^17.2.4",
     "rebound": "^0.1.0",
-    "subscriptions-transport-ws": "^0.9.19"
+    "recharts": "^2.1.8",
+    "redux": "^4.1.2",
+    "subscriptions-transport-ws": "^0.9.19",
+    "yarn": "^1.22.17"
   },
   "scripts": {
     "start": "react-scripts start",
